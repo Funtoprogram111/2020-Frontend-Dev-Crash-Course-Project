@@ -1,1 +1,1 @@
-#2020 Frontend Dev Crash Course Project
+2020 Frontend Dev Crash Course Project
